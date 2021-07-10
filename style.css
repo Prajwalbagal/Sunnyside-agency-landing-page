@@ -177,7 +177,7 @@ padding:5% 0;
 
 }
 
-@media (min-width:750px){
+@media (min-width:1440px){
 .right{
     display: none;
 }
